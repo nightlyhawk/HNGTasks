@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    background: rgba(17, 115, 171, 1);
+    color: white;
+}
+
+header {
+    height: 60px;
+    text-align: center;
+    font-size: 31px;
+}
+
+article {
+    height: 90vh;
+    margin: auto;
+    width: 50%;
+    text-align: left;
+    background: white;
+    border-radius: 12px;
+    color: rgba(17, 115, 171, 1);
+    padding: 1%;
+}
